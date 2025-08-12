@@ -85,7 +85,7 @@ layers:
   - {t: '3', s: '#'}
   - {t: '4', s: $}
   - {t: '5', s: '%'}
-  - Sft+Gui+2
+  - {t: '2', s: '@'}
   - SE LCBR
   - SE RCBR
   - SE LBRC
